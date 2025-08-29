@@ -1,4 +1,4 @@
-package com.company.cert_verification_system.repositoru;
+package com.company.cert_verification_system.repository;
 
 import com.company.cert_verification_system.entities.Course;
 import org.springframework.data.jpa.repository.JpaRepository;
